@@ -15,4 +15,4 @@ var n,e=arguments[3],t="/Users/likr/src/yew-microcms/node_modules/parcel-plugin-
 },{"fs":"ZcPv"}],0:[function(require,module,exports) {
 var b=require("TUK3");b.register("wasm",require("fISM"));b.load([["yew_microcms_bg.ef9b2e32.wasm","E55o"]]).then(function(){require("Focm");});
 },{}]},{},[0], null)
-//# sourceMappingURL=http://likr-sandbox.github.io/yew-microcms/src.da73afa0.js.map
+//# sourceMappingURL=https://likr-sandbox.github.io/yew-microcms/src.da73afa0.js.map
